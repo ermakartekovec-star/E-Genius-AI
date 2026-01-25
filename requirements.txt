@@ -1,0 +1,24 @@
+# Основные зависимости
+python-telegram-bot==13.15
+google-api-python-client==2.96.0
+google-auth-httplib2==0.1.1
+google-auth-oauthlib==1.1.0
+requests==2.31.0
+urllib3==1.26.18
+
+# Работа с данными и сетью
+pytz==2024.1
+tzlocal==5.2
+uuid==1.30
+
+# Базы данных и файлы
+sqlite3==2.6.0
+
+# Электронная почта
+secure-smtplib==0.1.1
+
+# Для работы с токенами и аутентификацией
+oauth2client==4.1.3
+
+# Системные зависимости
+pycryptodome==3.20.0
